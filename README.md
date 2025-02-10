@@ -5,3 +5,4 @@
 | mathcmd | Math Command   | Arithmetic practice game                 |
 | tapedir | Tape Directory | List tape filenames to screen or printer |
 | disasm  | Disassembly    | MC10 Disassembly and Memory Map          |
+| MC-10   | Re-assembly    | MC10 Re-assembly Complet ROM BASIC 1.0   |
